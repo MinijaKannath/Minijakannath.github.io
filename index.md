@@ -13,12 +13,18 @@
 <img src="images/Hotel Review Analysis.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+### Data Analysis and Visualization by Power BI
+[Covid-19 cases and Vaccination tracker](http://example.com/)
+<img src="images/power1.PNG?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Create Relational Database & Analyze Data with SQL (SQL & Excel)
+### Data Analysis and Visualization by Power BI
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
