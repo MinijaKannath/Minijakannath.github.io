@@ -1,6 +1,6 @@
 ## Portfolio Projects
 
-### Hare are all Portfolio Projects that I have completed in SGUS Associate Data Analyst Course from NTUC LearningHub. This is a full-time 9-month training program initiated by Singapore Government . Throughout this course, I have acquired many industry-relevant skills and completed few capstone projects leveraging these skills to demonstrate my capabilities and competency to a data analytics job.
+### Here are all Portfolio Projects that I have completed in SGUS Associate Data Analyst Course from NTUC LearningHub. This is a full-time 9-month training program initiated by Singapore Government . Throughout this course, I have acquired many industry-relevant skills and completed few capstone projects leveraging these skills to demonstrate my capabilities and competency to a data analytics job.
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
