@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Interactive Dashboard (Excel & Power Query)
 
-[Project 1 Title](/sample_page)
+[Melbourne House Price Analysis](/sample_page)
 <img src="images/melbourne.PNG?raw=true"/>
 
 ---
