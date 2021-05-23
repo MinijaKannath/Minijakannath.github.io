@@ -24,9 +24,10 @@
 
 ---
 
-### Data Analysis and Visualization by Power BI
+### Machine Learning Model using Python
 
-- [Project 1 Title](http://example.com/)
+- [Melbourne House price prediction model](http://example.com/)
+- <img src="images/power1.PNG?raw=true"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
