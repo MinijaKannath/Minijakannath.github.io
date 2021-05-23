@@ -8,8 +8,9 @@
 <img src="images/melbourne.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Create Relational Database & Analyze Data with SQL (SQL & Excel)
+[Hotel Review Analysis](/pdf/sample_presentation.pdf)
+<img src="images/Hotel Review Analysis.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
