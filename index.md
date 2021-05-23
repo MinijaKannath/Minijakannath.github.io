@@ -20,7 +20,7 @@
 <img src="images/power3.PNG?raw=true"/>
 <img src="images/power4.PNG?raw=true"/>
 <img src="images/power5.PNG?raw=true"/>
-<img src="images/power6.PNG?raw=true"/>
+<img src="images/poswer6.PNG?raw=true"/>
 
 ---
 
