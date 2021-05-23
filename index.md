@@ -16,11 +16,11 @@
 ### Data Analysis and Visualization by Power BI
 [Covid-19 cases and Vaccination tracker](http://example.com/)
 <img src="images/power1.PNG?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/power2.PNG?raw=true"/>
+<img src="images/power3.PNG?raw=true"/>
+<img src="images/power4.PNG?raw=true"/>
+<img src="images/power5.PNG?raw=true"/>
+<img src="images/power6.PNG?raw=true"/>
 
 ---
 
