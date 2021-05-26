@@ -14,7 +14,7 @@
 
 ---
 ### Data Analysis and Visualization by Power BI
-[Covid-19 cases and Vaccination tracker](http://example.com/)
+[Covid-19 cases and Vaccination tracker](/pdf/Melbourne_Housing_data_analysis.pdf)
 <img src="images/power1.PNG?raw=true"/>
 <img src="images/power2.PNG?raw=true"/>
 <img src="images/power3.PNG?raw=true"/>
