@@ -9,7 +9,7 @@
 
 ---
 ### Create Relational Database & Analyze Data with SQL (SQL & Excel)
-[Hotel Review Analysis](/pdf/https:/.pdf)
+[Hotel Review Analysis](/pdf/AnalysisOnHotelReviewData.pdf)
 <img src="images/Hotel Review Analysis.PNG?raw=true"/>
 
 ---
