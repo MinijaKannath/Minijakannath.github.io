@@ -4,7 +4,7 @@
 
 ### Interactive Dashboard (Excel & Power Query)
 
-[Melbourne House Price Analysis](/pdf/Melbourne Housing data analysis.pdf)
+[Melbourne House Price Analysis](/pdf/Melbourne_Housing_data_analysis.pdf)
 <img src="images/melbourne.PNG?raw=true"/>
 
 ---
