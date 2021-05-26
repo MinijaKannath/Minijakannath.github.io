@@ -14,7 +14,7 @@
 
 ---
 ### Data Analysis and Visualization by Power BI
-[Covid-19 cases and Vaccination tracker](/pdf/COVID-19 Vaccine Tracker.pdf)
+[Covid-19 cases and Vaccination tracker](/pdf/COVID-19_Vaccine_Tracker.pdf)
 <img src="images/power1.PNG?raw=true"/>
 <img src="images/power2.PNG?raw=true"/>
 <img src="images/power3.PNG?raw=true"/>
