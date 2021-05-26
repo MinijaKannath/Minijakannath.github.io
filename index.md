@@ -5,6 +5,7 @@
 ### Interactive Dashboard (Excel & Power Query)
 
 [Melbourne House Price Analysis](/sample_page)
+<a href="/pdf/Machine_Learning_using_Python.pdf">Identifying the Terrorist Organization responsible for a Terrorist Attack</a>
 <img src="images/melbourne.PNG?raw=true"/>
 
 ---
