@@ -28,7 +28,7 @@
 
 ### Machine Learning Model using Python
 
-- [Melbourne House price prediction model](http://example.com/)
+- [Melbourne House price prediction model](/pdf/MelbourneHouse.pdf)
 - <img src="images/Machine model.PNG?raw=true"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
