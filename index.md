@@ -32,7 +32,7 @@
 - <img src="images/Machine model.PNG?raw=true"/>
 
 ----
-### Predictive Analysis
+### Predictive Analysis(Integrating Python, SQL, and Power BI)
 - [Investment Data Analysis](/pdf/Summative projectMinija.pdf)
 - <img src="images/Investment predictions for TIAA.PNG?raw=true"/>
 
