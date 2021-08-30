@@ -30,10 +30,11 @@
 
 - [Melbourne House price prediction model](/pdf/MelbourneHouse.pdf)
 - <img src="images/Machine model.PNG?raw=true"/>
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+----
+### Investment Data Analysis
+- [Investment Data Analysis](/pdf/Summative projectMinija.pdf)
+- <img src="images/Investment predictions for TIAA.PNG?raw=true"/>
 
 ---
 
